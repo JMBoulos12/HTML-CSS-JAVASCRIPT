@@ -7,8 +7,8 @@ This is the main repository for all of the projects in the course.
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [Live Demo - Coming SOON](Coming SOON)               |
-| 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](Coming SOON) |
-| 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo - Coming SOON](Coming SOON)          |
-| 05  | [Blurry Loading](https://github.com/bradtraversy/50projects50days/tree/master/blurry-loading)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 01  | [Expanding Cards](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/1-%2050projects50days/expanding-cards)                             | [Live Demo - Coming SOON](Coming SOON)               |
+| 02  | [Progress Steps](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/1-%2050projects50days/progress-steps)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 03  | [Rotating Navigation Animation](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/1-%2050projects50days/rotating-nav-animation)                       | [Live Demo](Coming SOON) |
+| 04  | [Hidden Search Widget](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/1-%2050projects50days/hidden-search)                          | [Live Demo - Coming SOON](Coming SOON)          |
+| 05  | [Blurry Loading](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/1-%2050projects50days/blurry-loading)                               | [Live Demo - Coming SOON](Coming SOON)                |
