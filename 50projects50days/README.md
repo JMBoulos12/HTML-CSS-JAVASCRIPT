@@ -12,3 +12,4 @@ This is the main repository for all of the projects in the course.
 | 03  | [Rotating Navigation Animation](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/1-%2050projects50days/rotating-nav-animation)                       | [Live Demo](Coming SOON) |
 | 04  | [Hidden Search Widget](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/1-%2050projects50days/hidden-search)                          | [Live Demo - Coming SOON](Coming SOON)          |
 | 05  | [Blurry Loading](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/1-%2050projects50days/blurry-loading)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| ??  | [??]                               | [??]                |
