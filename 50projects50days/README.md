@@ -15,6 +15,6 @@ This is the main repository for all of the projects in the course.
 | 06  | [Scroll Animation](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/Scroll%20Animation)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 07  | [Split Landing Page](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/Split%20Landing%20Page)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 08  | [Form Wave](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/Form-Wave)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 07  | []                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 07  | []                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 07  | []                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 00  | [XX]                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 00  | [XX]                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 00  | [XX]                               | [Live Demo - Coming SOON](Coming SOON)                |
