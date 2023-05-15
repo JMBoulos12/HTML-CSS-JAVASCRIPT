@@ -5,7 +5,7 @@ This is the main repository for all of the projects in the course.
 -   [Course Link - Coming SOON](Coming SOON)
 -   [Course Info Website - Coming SOON](Coming SOON)
 
-|  #  | Project                                                                                                                     | Live Demo                                                                         |
+|  DAY  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/1-%2050projects50days/expanding-cards)                             | [Live Demo - Coming SOON](Coming SOON)               |
 | 02  | [Progress Steps](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/1-%2050projects50days/progress-steps)                               | [Live Demo - Coming SOON](Coming SOON)                |
