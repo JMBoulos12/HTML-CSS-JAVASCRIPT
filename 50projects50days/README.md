@@ -17,5 +17,23 @@ This is the main repository for all of the projects in the course.
 | 08  | [Form Wave](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/Form-Wave)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 09  | [Sound Board](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/sound-board)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 10  | [Dad Jokes](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/dad-jokes)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 11  | [XX]                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 12  | [XX]                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 11  | [Event Keycodes](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/event-keycodes)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 12  | [Faq Collapse](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/faq-collapse)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 13  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 14  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 15  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 16  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 17  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 18  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 19  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 20  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 21  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 22  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 23  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 24  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 25  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 26  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 27  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 28  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 29  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 30  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
