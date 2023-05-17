@@ -25,8 +25,8 @@ This is the main repository for all of the projects in the course.
 | 16  | [Drink Water](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/drink-water)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 17  | [Movie App](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/movie-app)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 18  | [Background Slider](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/background-slider)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 19  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 20  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 19  | [Theme Clock](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/theme-clock)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 20  | [Button Ripple Effect](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/button-ripple-effect)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 21  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 22  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 23  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
