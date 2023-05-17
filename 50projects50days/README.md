@@ -22,9 +22,9 @@ This is the main repository for all of the projects in the course.
 | 13  | [Random Choice Picker](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/random-choice-picker)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 14  | [Animated Navigation](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/animated-navigation)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 15  | [Incrementing Counter](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/incrementing-counter)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 16  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 17  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 18  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 16  | [Drink Water](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/drink-water)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 17  | [Movie App](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/movie-app)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 18  | [Background Slider](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/background-slider)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 19  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 20  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 21  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
