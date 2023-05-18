@@ -29,9 +29,9 @@ This is the main repository for all of the projects in the course.
 | 20  | [Button Ripple Effect](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/button-ripple-effect)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 21  | [Drag N Drop](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/drag-n-drop)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 22  | [Drawing App](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/drawing-app)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 23  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 24  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 25  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 23  | [Kinetic Loader](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/kinetic-loader)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 24  | [Content Placeholder](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/content-placeholder)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 25  | [Sticky Navbar](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/sticky-navigation%20)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 26  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 27  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 28  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
