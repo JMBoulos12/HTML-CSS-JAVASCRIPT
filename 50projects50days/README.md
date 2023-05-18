@@ -32,7 +32,7 @@ This is the main repository for all of the projects in the course.
 | 23  | [Kinetic Loader](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/kinetic-loader)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 24  | [Content Placeholder](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/content-placeholder)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 25  | [Sticky Navbar](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/sticky-navigation%20)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 26  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 26  | [Double Vertical Slider](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/double-vertical-slider)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 27  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 28  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 29  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
