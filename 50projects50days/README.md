@@ -35,8 +35,8 @@ This is the main repository for all of the projects in the course.
 | 26  | [Double Vertical Slider](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/double-vertical-slider)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 27  | [Toast Notification](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/Toast%20Notification)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 28  | [Github Profiles](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/github-profiles)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 29  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 30  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 29  | [Double Click Heart](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/double-click-heart)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 30  | [Auto Text Effect](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/auto-text-effect)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 31  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 32  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 33  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
