@@ -37,11 +37,11 @@ This is the main repository for all of the projects in the course.
 | 28  | [Github Profiles](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/github-profiles)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 29  | [Double Click Heart](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/double-click-heart)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 30  | [Auto Text Effect](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/auto-text-effect)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 31  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 32  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 33  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 34  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 35  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 31  | [Password Generator](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/password-generator)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 32  | [Good Cheap Fast](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/good-cheap-fast)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 33  | [notes-app](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/notes-app)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 34  | [Animated Countdown](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/animated-countdown)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 35  | [	Image Carousel](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/image-carousel)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 36  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 37  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 38  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
