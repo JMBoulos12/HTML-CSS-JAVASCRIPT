@@ -44,7 +44,7 @@ This is the main repository for all of the projects in the course.
 | 35  | [Image Carousel](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/image-carousel)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 36  | [Hoverboard](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/hoverboard)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 37  | [Pokedex](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/pokedex)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 38  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 38  | [Mobile Tab Navigation](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/mobile-tab-navigation)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 39  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 40  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 41  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
