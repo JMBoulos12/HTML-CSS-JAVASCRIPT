@@ -45,8 +45,8 @@ This is the main repository for all of the projects in the course.
 | 36  | [Hoverboard](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/hoverboard)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 37  | [Pokedex](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/pokedex)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 38  | [Mobile Tab Navigation](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/mobile-tab-navigation)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 39  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 40  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 39  | [Password Strength Background](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/password-strength-background)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 40  | [3D Background Boxes](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/3d-boxes-background)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 41  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 42  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 43  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
