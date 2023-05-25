@@ -49,8 +49,8 @@ This is the main repository for all of the projects in the course.
 | 40  | [3D Background Boxes](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/3d-boxes-background)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 41  | [Verify Account Ui](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/verify-account-ui)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 42  | [Live User Filter](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/live-user-filter)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 43  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 44  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 43  | [Feedback Ui Design](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/feedback-ui-design)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 44  | [Custom Range Slider](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/Custom%20Range%20Slider)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 45  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 46  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 47  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
