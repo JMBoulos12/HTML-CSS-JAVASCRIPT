@@ -51,8 +51,8 @@ This is the main repository for all of the projects in the course.
 | 42  | [Live User Filter](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/live-user-filter)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 43  | [Feedback Ui Design](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/feedback-ui-design)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 44  | [Custom Range Slider](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/Custom%20Range%20Slider)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 45  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 46  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 45  | [Netflix Mobile Navigation](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/netflix-mobile-navigation)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 46  | [Quiz App](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/quiz-app)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 47  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 48  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 49  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
