@@ -55,5 +55,5 @@ This is the main repository for all of the projects in the course.
 | 46  | [Quiz App](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/quiz-app)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 47  | [Testimonial Box Switcher](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/testimonial-box-switcher%20)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 48  | [Random Image Feed](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/random-image-generator%20)                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 49  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 49  | [Todo List](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/todo-list)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 50  | [XX]()                               | [Live Demo - Coming SOON](Coming SOON)                |
