@@ -15,4 +15,4 @@ This is the main repository for all of the projects in the course.
 | 06  | [Number Guessing Game](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/number-guessing-game)| [Live Demo - Coming SOON](Coming SOON)| 
 | 07  | [Word Guessing Game](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/word-guessing-game)| [Live Demo - Coming SOON](Coming SOON)| 
 | 08  | [Rock Paper Scissors](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/rock-paper-scissors)| [Live Demo - Coming SOON](Coming SOON)| 
-| 09  | []()| [Live Demo - Coming SOON](Coming SOON)| 
+| 09  | [Classic Snake](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/classic-snake)| [Live Demo - Coming SOON](Coming SOON)| 
