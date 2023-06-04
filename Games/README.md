@@ -17,3 +17,5 @@ This is the main repository for all of the projects in the course.
 | 08  | [Rock Paper Scissors](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/rock-paper-scissors)| [Live Demo - Coming SOON](Coming SOON)| 
 | 09  | [Classic Snake](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/classic-snake)| [Live Demo - Coming SOON](Coming SOON)| 
 | 10  | [Playable Piano](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/playable-piano)| [Live Demo - Coming SOON](Coming SOON)| 
+| 11  | [Paint App](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/paint-app)| [Live Demo - Coming SOON](Coming SOON)| 
+| 12  | []()| [Live Demo - Coming SOON](Coming SOON)| 
