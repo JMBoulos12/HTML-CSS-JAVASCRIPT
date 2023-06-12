@@ -21,4 +21,10 @@ This is the main repository for all of the projects in the course.
 | 12  | [Cube](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/cube)| [Live Demo - Coming SOON](Coming SOON)| 
 | 13  | [Alarm Clock](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/alarm-clock)| [Live Demo - Coming SOON](Coming SOON)| 
 | 14  | [Random Quote Generator](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/random-quote-generator)| [Live Demo - Coming SOON](Coming SOON)| 
-| 15  | []()| [Live Demo - Coming SOON](Coming SOON)| 
+| 15  | [Tower Blocks](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/tower-blocks)| [Live Demo - Coming SOON](Coming SOON)| 
+| 16  | []()| [Live Demo - Coming SOON](Coming SOON)| 
+| 17  | []()| [Live Demo - Coming SOON](Coming SOON)| 
+| 18  | []()| [Live Demo - Coming SOON](Coming SOON)| 
+| 19  | []()| [Live Demo - Coming SOON](Coming SOON)| 
+| 20  | []()| [Live Demo - Coming SOON](Coming SOON)| 
+| 21  | []()| [Live Demo - Coming SOON](Coming SOON)| 
