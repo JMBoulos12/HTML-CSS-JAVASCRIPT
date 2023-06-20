@@ -1,0 +1,33 @@
+.info-board {
+	flex-grow: 1;
+	position: relative;
+	width: 100vw;
+	display: inline-flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	align-content: center;
+	/* border: 1px white dashed; */
+	animation-name: fadeInDown;
+	animation-duration: 0.4s;
+	animation-timing-function: ease-in-out;
+}
+
+.info-board > ul {
+	height: min-content;
+	list-style: none;
+	display: inline-flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	align-content: center;
+}
+
+.info-board #title {
+	font-size: 12rem;
+}
+
+.info-board #content {
+	font-size: 2.1rem;
+	letter-spacing: 1px;
+}
