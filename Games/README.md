@@ -25,8 +25,8 @@ This is the main repository for all of the projects in the course.
 | 16  | [The Frantic Run Of The Valorous Rabbit](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/the-frantic-run-of-the-valorous-rabbit)| [Live Demo - Coming SOON](Coming SOON)| 
 | 17  | [The Aviator](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/the-aviator)| [Live Demo - Coming SOON](Coming SOON)| 
 | 18  | [Astray](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/astray)| [Live Demo - Coming SOON](Coming SOON)| 
-| 19  | [Race Game ThreeJS](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/race-game-threejs)| [Live Demo - Coming SOON](Coming SOON)| 
-| 20  | [StackIt](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/StackIt)| [Live Demo - Coming SOON](Coming SOON)| 
+| 19  | [ [Three.js] [Race Game ThreeJS](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/race-game-threejs)| [Live Demo - Coming SOON](Coming SOON)| 
+| 20  | [ [Three.js] StackIt](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/StackIt)| [Live Demo - Coming SOON](Coming SOON)| 
 | 21  | [ [Three.js] Hidden Object](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/Games/hiddenobject)| [Live Demo - Coming SOON](Coming SOON)| 
 | 22  | []()| [Live Demo - Coming SOON](Coming SOON)| 
 | 23  | []()| [Live Demo - Coming SOON](Coming SOON)| 
