@@ -1,4 +1,4 @@
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+# 150 Projects in 150 Days - HTML/CSS and JavaScript
 
 This is the main repository for all of the projects in the course.
 
@@ -57,3 +57,103 @@ This is the main repository for all of the projects in the course.
 | 48  | [Random Image Feed](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/random-image-generator%20)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 49  | [Todo List](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/todo-list)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 50  | [Insect Catch Game](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/insect-catch-game)                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 51  | []()                             | [Live Demo - Coming SOON](Coming SOON)               |
+| 52  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 53  | []()                       | [Live Demo](Coming SOON) |
+| 54  | []()                          | [Live Demo - Coming SOON](Coming SOON)          |
+| 55  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 56  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 57  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 58  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 59  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 60  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 61  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 62  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 63  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 64  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 65  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 66  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 67  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 68  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 69  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 70  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 71  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 72  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 73  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 74  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 75  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 76  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 77  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 78  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 79  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 80  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 81  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 82  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 83  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 84  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 85  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 86  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 87  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 88  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 89  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 90  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 91  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 92  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 93  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 94  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 95  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 96  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 97  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 98  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 99  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 100  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 101  | []()                             | [Live Demo - Coming SOON](Coming SOON)               |
+| 102  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 103  | []()                       | [Live Demo](Coming SOON) |
+| 104  | []()                          | [Live Demo - Coming SOON](Coming SOON)          |
+| 105  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 106  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 107  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 108  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 109  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 110  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 111  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 112  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 113  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 114  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 115  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 116  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 117  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 118  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 119  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 120  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 121  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 122  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 123  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 124  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 125  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 126  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 127  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 128  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 129  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 130  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 131  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 132  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 133  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 134  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 135  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 136  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 137  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 138  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 139  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 140  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 141  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 142  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 143  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 144  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 145  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 146  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 147  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 148  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 149  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
+| 150  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
