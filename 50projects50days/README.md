@@ -59,7 +59,7 @@ This is the main repository for all of the projects in the course.
 | 50  | [Insect Catch Game](https://github.com/JMBoulos12/HTML-CSS-JAVASCRIPT/tree/main/50projects50days/insect-catch-game)                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 51  | []()                             | [Live Demo - Coming SOON](Coming SOON)               |
 | 52  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 53  | []()                       | [Live Demo](Coming SOON) |
+| 53  | []()                       | [Live Demo - Coming SOON](Coming SOON) |
 | 54  | []()                          | [Live Demo - Coming SOON](Coming SOON)          |
 | 55  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 56  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
