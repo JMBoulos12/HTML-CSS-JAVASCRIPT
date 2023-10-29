@@ -109,7 +109,7 @@ This is the main repository for all of the projects in the course.
 | 100  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 101  | []()                             | [Live Demo - Coming SOON](Coming SOON)               |
 | 102  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
-| 103  | []()                       | [Live Demo](Coming SOON) |
+| 103  | []()                       | [Live Demo - Coming SOON](Coming SOON) |
 | 104  | []()                          | [Live Demo - Coming SOON](Coming SOON)          |
 | 105  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
 | 106  | []()                               | [Live Demo - Coming SOON](Coming SOON)                |
